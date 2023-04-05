@@ -1,0 +1,8 @@
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\bin\Debug\DemoSOLID.exe.config
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\bin\Debug\DemoSOLID.exe
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\bin\Debug\DemoSOLID.pdb
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\obj\Debug\DemoSOLID.csproj.AssemblyReference.cache
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\obj\Debug\DemoSOLID.csproj.SuggestedBindingRedirects.cache
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\obj\Debug\DemoSOLID.csproj.CoreCompileInputs.cache
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\obj\Debug\DemoSOLID.exe
+C:\Users\msin\source\repos\DemoSOLID\DemoSOLID\obj\Debug\DemoSOLID.pdb
